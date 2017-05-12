@@ -1,0 +1,6 @@
+framework module Codec {
+  umbrella header "Codec-umbrella.h"
+
+  export *
+  module * { export * }
+}

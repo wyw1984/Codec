@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Codec_Example' do
+  pod 'Codec', :path => '../'
+
+  target 'Codec_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+  end
+end

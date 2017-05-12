@@ -1,0 +1,19 @@
+PODS:
+  - Codec (0.1.0)
+  - Kiwi (2.4.0)
+
+DEPENDENCIES:
+  - Codec (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  Codec:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Codec: 15b7ea60a85889f1467de9a40a6a7dd42a56f6fb
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+
+PODFILE CHECKSUM: b91351c9cdae220a32c065ee91e730707a0a5378
+
+COCOAPODS: 1.2.1
